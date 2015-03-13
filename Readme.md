@@ -33,6 +33,15 @@ print({
 
 ![](http://cl.ly/image/3m14172Q3M2G/direct)
 
+#### Options
+
+```javascript
+var print = require('awesome-print');
+
+print.indent = 4; // indent using 4 spaces, default is 2
+print.sort = false; // sort object keys alphabetically, default is false
+print.plain = false; // disable colors, default is false
+```
 
 ### License
 
