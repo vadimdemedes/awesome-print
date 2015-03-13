@@ -1,0 +1,25 @@
+{
+  "name": "awesome-print",
+  "version": "1.0.0",
+  "description": "Beautifully print your JavaScript objects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vdemedes/awesome-print.git"
+  },
+  "keywords": [
+    "print",
+    "pretty",
+    "pretty-print"
+  ],
+  "author": "Vadim Demedes <vdemedes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdemedes/awesome-print/issues"
+  },
+  "homepage": "https://github.com/vdemedes/awesome-print",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "text-table": "^0.2.0"
+  }
+}
